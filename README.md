@@ -250,7 +250,7 @@ Python在以下领域都有用武之地。
 2. 将数据写入CSV文件
 3. 从CSV文件读取数据
 
-#### Day24 - [Python读写Excel文件-1](./Day21-30/24.用Python读写Excel文件-1.md)
+#### Day24 - [Python读写Excel文件-1](./Day21-30/24.Python读写Excel文件-1.md)
 
 1. Excel简介
 2. 读Excel文件
